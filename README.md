@@ -42,5 +42,5 @@ Assets/
 
 | Track | Use | Credit |
 |-------|-----|--------|
-| Techno Purgatory | Purgatory gameplay | [LudoLoon Studio]([https://ludoloonstudio.itch.io]) |
+| Techno Purgatory | Purgatory gameplay | [LudoLoon Studio](https://ludoloonstudio.itch.io) |
 | Infinity Heaven | Heaven section *(planned)* | [HyuN](https://www.youtube.com/c/HyuNPianoOfficial) |
