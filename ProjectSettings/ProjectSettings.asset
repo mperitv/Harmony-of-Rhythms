@@ -164,7 +164,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.2D-URP
+    Standalone: com.DefaultCompany.HarmonyOfRhythms
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -684,7 +684,7 @@ PlayerSettings:
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Harmony of Rhythms
   organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
