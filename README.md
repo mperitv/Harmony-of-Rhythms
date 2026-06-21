@@ -7,7 +7,7 @@ A 2D rhythm action game built in Unity. When heaven's rhythm breaks, a human is 
 **Harmony of Rhythms** blends rhythm defense with a story-driven journey:
 
 1. **Purgatory** — Walk forward while blocking colored enemy beams in sync with the music.
-2. **Heaven**  — Repair the celestial clock using beat-based mechanics.
+2. **Heaven**  — Repair the celestial clock using beats!
 
 
 
@@ -46,7 +46,7 @@ Assets/
 
 | Track | Use | Credit |
 |-------|-----|--------|
-| Techno Purgatory | Purgatory gameplay | [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgatory) — CC BY 4.0 |
+| Techno Purgatory | Purgatory gameplay | [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgatory) |
 | Infinity Heaven | Heaven section *(planned)* | [HyuN](https://www.youtube.com/c/HyuNPianoOfficial) |
 
 
