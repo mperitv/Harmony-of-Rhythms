@@ -1,13 +1,13 @@
 # Harmony of Rhythms
 
-A 2D rhythm action game built in Unity. When heaven's rhythm breaks, a human is chosen to restore it—first through the trials of purgatory, then by repairing the great clock in heaven.
+One day, the rhythm of the celestial clock in heaven breaks down, and heaven begins to collapse. A human chosen by God is tasked with repairing this clock. Our character passes through purgatory to reach heaven and attempts to repair the clock along with its rhythm!
 
 ## About
 
-**Harmony of Rhythms** blends rhythm defense with a story-driven journey:
+**Harmony of Rhythms** consists of two parts:
 
-1. **Purgatory** — Walk forward while blocking colored enemy beams in sync with the music.
-2. **Heaven**  — Repair the celestial clock using beats!
+1. **Purgatory** — Our character moves towards the celestial clock in front of her, and in the process, creatures around her attack her.
+2. **Heaven**  — Our character saves heaven with their own rhythm!
 
 
 
@@ -19,9 +19,8 @@ A 2D rhythm action game built in Unity. When heaven's rhythm breaks, a human is 
 | `K` | Right melee |
 | `F` | Upper-left |
 | `J` | Upper-right |
-| `Space` | Ground front (jump) |
+| `Space` | Jump |
 
-Press the matching key when a threat reaches its hit marker.
 
 
 ## Project Structure
@@ -46,7 +45,7 @@ Assets/
 
 | Track | Use | Credit |
 |-------|-----|--------|
-| Techno Purgatory | Purgatory gameplay | [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgatory) |
+| Techno Purgatory | Purgatory section | [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgatory) |
 | Infinity Heaven | Heaven section *(planned)* | [HyuN](https://www.youtube.com/c/HyuNPianoOfficial) |
 
 
