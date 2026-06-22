@@ -7,7 +7,7 @@ One day, the rhythm of the celestial clock in heaven breaks down, and heaven beg
 **Harmony of Rhythms** consists of two parts:
 
 1. **Purgatory** — Our character moves towards the celestial clock in front of her, and in the process, creatures around her attack her.
-2. **Heaven**  — Our character saves heaven with their own rhythm!
+2. **Heaven**  — Our character saves heaven with her own rhythm!
 
 
 
