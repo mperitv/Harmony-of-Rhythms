@@ -69,3 +69,12 @@ All of them were drawn by me!!!! (There aren't many assets yet, but there will b
 (After completing all of this work, I plan to make the music myself, but these songs are also very beautiful!!!)
 
 
+## Tech Stack
+
+Unity: Game Engine  
+C#: Scripts  
+Visual Studio Code: For editing scripts  
+Procreate: For asset creation  
+
+
+
