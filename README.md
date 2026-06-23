@@ -65,5 +65,6 @@ All of them were drawn by me!!!! (There aren't many assets yet, but there will b
 |-------|-----|--------|
 | Techno Purgatory | Purgatory section | [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgatory) |
 | Infinity Heaven | Heaven section *(planned)* | [HyuN](https://www.youtube.com/c/HyuNPianoOfficial) |
+(After completing all of this work, I plan to make the music myself, but these songs are also very beautiful!!!)
 
 
