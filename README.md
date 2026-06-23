@@ -68,6 +68,8 @@ All of them were drawn by me!!!! (There aren't many assets yet, but there will b
 
 (After completing all of this work, I plan to make the music myself, but these songs are also very beautiful!!!)
 
+## AI Usage
+AI was only used in a portion of the code and for debugging in the project; the visuals are mine, and the music belongs to the individuals mentioned above. I plan to make the music myself in the near future.
 
 ## Tech Stack
 
