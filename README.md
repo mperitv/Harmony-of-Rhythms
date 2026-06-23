@@ -75,6 +75,8 @@ Unity: Game Engine
 C#: Scripts  
 Visual Studio Code: For editing scripts  
 Procreate: For asset creation  
+  
+This Project is for #horizons
 
 
 
