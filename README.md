@@ -19,7 +19,7 @@ Techno Purgatory: [LudoLoon Studio](https://ludoloonstudio.itch.io/techno-purgat
 ## Assets
 All artwork in this game was created by me. The music used in the game and its creator are credited above.
 
-## Ai Usage
+## AI Usage
 AI was only used in writing and debugging the code. The visuals are mine, and the music belongs to the person mentioned above.
 
 ## Tech Stack  
